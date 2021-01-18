@@ -1,0 +1,12 @@
+{
+  "name": "api-sniff-mock",
+  "version": "0.0.3",
+  "description": "a local and remote api sniff-mock middleware",
+  "main": "index.js",
+  "keywords": [
+    "sinnf",
+    "mock"
+  ],
+  "author": "sam chang",
+  "license": "MIT"
+}
